@@ -13,6 +13,6 @@ This app uses Frankfurter api for Currency conversion.
   **Some screenshots:**
   
   
-  ![cf10f8fb-54b1-4009-8445-aba4f6a89235](https://user-images.githubusercontent.com/39796545/210129059-e03daea7-a33c-4b51-b9d0-ccfe58ab474c.jpg=150x225)
+  ![cf10f8fb-54b1-4009-8445-aba4f6a89235](https://user-images.githubusercontent.com/39796545/210129059-e03daea7-a33c-4b51-b9d0-ccfe58ab474c.jpg)
 
 **NOTE**: Euro conversion missing due to API restrictions (free api xD)
