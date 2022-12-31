@@ -1,0 +1,13 @@
+{
+  "name": "CurrencyConverter",
+  "displayName": "CurrencyConverter",
+  "orientation": "portrait",
+  "plugins": [
+    [
+      "expo-screen-orientation",
+      {
+        "initialOrientation": "PORTRAIT"
+      }
+    ]
+  ]
+}
